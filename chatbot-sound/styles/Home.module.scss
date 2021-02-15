@@ -1,0 +1,10 @@
+.container{
+  max-width: 980px;
+ 
+  margin:auto;  //centre le container
+}
+
+.message-list{
+  display: flex;
+  flex-direction: column;
+}
